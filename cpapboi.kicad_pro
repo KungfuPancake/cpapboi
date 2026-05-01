@@ -416,13 +416,21 @@
         "uuid": "320a9d09-725c-47b2-ba01-b8bc02b3665e"
       }
     ],
-    "used_designators": "C1-6,L1-2,U1-3",
+    "used_designators": "R1-8,R15,U4,Q1-2,J1,C7-9,C19,#PWR1-8,#PWR23-24",
     "variants": []
   },
   "sheets": [
     [
       "320a9d09-725c-47b2-ba01-b8bc02b3665e",
       "Root"
+    ],
+    [
+      "97fc45aa-7085-4dcc-8603-898cf22cf6aa",
+      "WS7040 Control"
+    ],
+    [
+      "afd85101-2287-4506-9164-31c0c4839510",
+      "Filament Sensor"
     ]
   ],
   "text_variables": {},
